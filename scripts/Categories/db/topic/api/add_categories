@@ -1,0 +1,260 @@
+[
+   {
+      "topicName":"BEAUTIFUL LIVES",
+      "slug":"discuss_beautiful_lives",
+      "topicDesc":"BEAUTIFUL LIVES",
+      "orderIdx":0
+   },
+   {
+      "topicName":"AGING RECONSIDERED",
+      "slug":"discuss_aging_reconsidered",
+      "topicDesc":"AGING RECONSIDERED",
+      "orderIdx":1
+   },
+   {
+      "topicName":"ABOUT",
+      "slug":"discuss_about",
+      "topicDesc":"ABOUT",
+      "orderIdx":2
+   },
+   {
+      "topicName":"DAILY ROUTINE",
+      "slug":"discuss_routine",
+      "topicDesc":"DAILY ROUTINE",
+      "orderIdx":3
+   },
+   {
+      "topicName":"CAREGIVERS’ CORNER",
+      "slug":"discuss_caregiver_corner",
+      "topicDesc":"CAREGIVERS’ CORNER",
+      "orderIdx":4
+   },
+   {
+      "topicName":"DEATH AND BEYOND",
+      "slug":"discuss_death_beyond",
+      "topicDesc":"DEATH AND BEYOND",
+      "orderIdx":5
+   },
+   {
+      "topicName":"LEGAL & FINANCE",
+      "slug":"discuss_legal_finance",
+      "topicDesc":"LEGAL & FINANCE",
+      "orderIdx":6
+   },
+   {
+      "topicName":"HEALTH CONDITIONS",
+      "slug":"discuss_health_condition",
+      "topicDesc":"HEALTH CONDITIONS",
+      "orderIdx":7
+   },
+   {
+      "topicName":"STARS FOREVER",
+      "slug":"discuss_beautiful_lives_stars_forever",
+      "topicDesc":"",
+      "orderIdx":0
+   },
+   {
+      "topicName":"IT’S NEVER TOO LATE",
+      "slug":"discuss_beautiful_lives_never_too_late",
+      "topicDesc":"IT’S NEVER TOO LATE",
+      "orderIdx":1
+   },
+   {
+      "topicName":"PERSONAL STORIES",
+      "slug":"discuss_beautiful_lives_personal_stories",
+      "topicDesc":"PERSONAL STORIES",
+      "orderIdx":2
+   },
+   {
+      "topicName":"ISSUES & STEREOTYPES OF AGING",
+      "slug":"discuss_aging_reconsidered_issues",
+      "topicDesc":"ISSUES & STEREOTYPES OF AGING",
+      "orderIdx":0
+   },
+   {
+      "topicName":"ANTI-AGING NEWS",
+      "slug":"discuss_aging_reconsidered_news",
+      "topicDesc":"ANTI-AGING NEWS",
+      "orderIdx":1
+   },
+   {
+      "topicName":"AGING AROUND THE GLOBE",
+      "slug":"discuss_aging_reconsidered_globe",
+      "topicDesc":"AGING AROUND THE GLOBE",
+      "orderIdx":2
+   },
+   {
+      "topicName":"SERVICES",
+      "slug":"discuss_about_services",
+      "topicDesc":"SERVICES",
+      "orderIdx":0
+   },
+   {
+      "topicName":"PRODUCTS",
+      "slug":"discuss_about_products",
+      "topicDesc":"PRODUCTS",
+      "orderIdx":1
+   },
+   {
+      "topicName":"HOUSING FACILITIES",
+      "slug":"discuss_about_housing",
+      "topicDesc":"HOUSING FACILITIES",
+      "orderIdx":2
+   },
+   {
+      "topicName":"Chores",
+      "slug":"discuss_daily_routine_chores",
+      "topicDesc":"Chores",
+      "orderIdx":0
+   },
+   {
+      "topicName":"Medications",
+      "slug":"discuss_daily_routine_medication",
+      "topicDesc":"Medications",
+      "orderIdx":1
+   },
+   {
+      "topicName":"Personal hygiene",
+      "slug":"discuss_daily_routine_hygiene",
+      "topicDesc":"Personal hygiene",
+      "orderIdx":2
+   },
+   {
+      "topicName":"Food & Nutrition",
+      "slug":"discuss_daily_routine_food",
+      "topicDesc":"Food & Nutrition",
+      "orderIdx":3
+   },
+   {
+      "topicName":"Mobility & Transportation",
+      "slug":"discuss_daily_routine_mobility",
+      "topicDesc":"Mobility & Transportation",
+      "orderIdx":4
+   },
+   {
+      "topicName":"Activities",
+      "slug":"discuss_daily_routine_activities",
+      "topicDesc":"Activities",
+      "orderIdx":5
+   },
+   {
+      "topicName":"Caregiving guides",
+      "slug":"discuss_caregiver_corner_guides",
+      "topicDesc":"Caregiving guides",
+      "orderIdx":1
+   },
+   {
+      "topicName":"Stress & burnout",
+      "slug":"discusscaregiver_corner__stress",
+      "topicDesc":"Stress & burnout",
+      "orderIdx":2
+   },
+   {
+      "topicName":"Elderly care stories",
+      "slug":"discuss_caregiver_corner_care_stories",
+      "topicDesc":"Elderly care stories",
+      "orderIdx":3
+   },
+   {
+      "topicName":"Alzheimer’s & dementia",
+      "slug":"discuss_health_condition_",
+      "topicDesc":"Alzheimer’s & dementia",
+      "orderIdx":0
+   },
+   {
+      "topicName":"Parkinson’s",
+      "slug":"discuss_health_condition_Parkinsons",
+      "topicDesc":"Parkinson’s",
+      "orderIdx":1
+   },
+   {
+      "topicName":"Mental disorders",
+      "slug":"discuss_health_condition_mental_disorder",
+      "topicDesc":"Mental disorders",
+      "orderIdx":2
+   },
+   {
+      "topicName":"Broken hip",
+      "slug":"discuss_health_condition_broken_hip",
+      "topicDesc":"Broken hip",
+      "orderIdx":3
+   },
+   {
+      "topicName":"Stroke",
+      "slug":"discuss_health_condition_stroke",
+      "topicDesc":"Stroke",
+      "orderIdx":4
+   },
+   {
+      "topicName":"Vision & Hearing issues",
+      "slug":"discuss_health_condition_vision_hearing",
+      "topicDesc":"Vision & Hearing issues",
+      "orderIdx":5
+   },
+   {
+      "topicName":"Arthritis",
+      "slug":"discuss_health_condition_Arthritis",
+      "topicDesc":"Arthritis",
+      "orderIdx":6
+   },
+   {
+      "topicName":"Diabetes",
+      "slug":"discuss_health_condition_Diabetes",
+      "topicDesc":"Diabetes",
+      "orderIdx":7
+   },
+   {
+      "topicName":"Incontinence",
+      "slug":"discuss_health_condition_Incontinence",
+      "topicDesc":"Incontinence",
+      "orderIdx":8
+   },
+   {
+      "topicName":"Heart",
+      "slug":"discuss_health_condition_Heart",
+      "topicDesc":"Heart",
+      "orderIdx":9
+   },
+   {
+      "topicName":"Cancer",
+      "slug":"discuss_health_condition_Cancer",
+      "topicDesc":"Cancer",
+      "orderIdx":10
+   },
+   {
+      "topicName":"Respiratory",
+      "slug":"discuss_health_condition_Respiratory",
+      "topicDesc":"Respiratory",
+      "orderIdx":11
+   },
+   {
+      "topicName":"Kidneys",
+      "slug":"discuss_health_condition_Kidneys",
+      "topicDesc":"Kidneys",
+      "orderIdx":12
+   },
+   {
+      "topicName":"Digestive system",
+      "slug":"discuss_health_condition_Digestive_system",
+      "topicDesc":"Digestive system",
+      "orderIdx":13
+   },
+   {
+      "topicName":"Sleep disorders",
+      "slug":"discuss_health_condition_Sleep_disorders",
+      "topicDesc":"Sleep disorders",
+      "orderIdx":14
+   },
+   {
+      "topicName":"Osteoporosis",
+      "slug":"discuss_health_condition_Osteoporosis",
+      "topicDesc":"Osteoporosis",
+      "orderIdx":15
+   },
+   {
+      "topicName":"Other",
+      "slug":"discuss_health_condition_Other",
+      "topicDesc":"Other",
+      "orderIdx":16
+   }
+]
